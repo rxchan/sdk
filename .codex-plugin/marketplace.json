@@ -1,0 +1,17 @@
+{
+  "name": "servicenow",
+  "owner": {
+    "name": "ServiceNow"
+  },
+  "plugins": [
+    {
+      "name": "fluent",
+      "source": "./providers/codex/plugin/",
+      "description": "ServiceNow Fluent SDK",
+      "version": "1.0.1",
+      "author": {
+        "name": "ServiceNow"
+      }
+    }
+  ]
+}
